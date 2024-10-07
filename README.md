@@ -1,7 +1,7 @@
 - 👋 Hi, I’m CHAITHANYA.S.NAIR
 - 👀 I’m interested IN DATA ANALYSIS
 - 🌱 I’m currently learning DATA SCIENCE AND MACHINE LEARNING 
-  - 📫 How to reach me THROUGH EMAIL - chaithanya.s.nair@gmail.com
+  - 📫 you can reach me through EMAIL - chaithanya.s.nair@gmail.com
 
 
 <!---
